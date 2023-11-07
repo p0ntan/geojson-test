@@ -22,7 +22,7 @@ Utanför false
 ```
 
 ## geo-point-in-polygon
-Paket med utan dependencies, unpacked 13.4 kB. [Länk](https://www.npmjs.com/package/geo-point-in-polygon)
+Paket utan dependencies, unpacked 13.4 kB. [Länk](https://www.npmjs.com/package/geo-point-in-polygon)
 
 ## point-in-polygon
 Paket med 1 dependency, unpacked 8.7 kB. [Länk](https://www.npmjs.com/package/point-in-polygon)
